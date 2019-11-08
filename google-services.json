@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "832805668339",
+    "firebase_url": "https://imageblure-3e828.firebaseio.com",
+    "project_id": "imageblure-3e828",
+    "storage_bucket": "imageblure-3e828.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832805668339:android:ca0facfeb4f49ef52b7e86",
+        "android_client_info": {
+          "package_name": "com.example.imageblure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832805668339-4vr2kpiuo0srlqlhg4anogf679mdgv8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Ey1gwEZngQdlsB0kcDYgrN6ZeDceLDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832805668339-4vr2kpiuo0srlqlhg4anogf679mdgv8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
